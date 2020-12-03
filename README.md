@@ -20,9 +20,9 @@
 
 - ⚡ Fun fact **No matter how SENIOR you are you will visit STACKOVERFLOW**
 
-## 🙏 Support - Help me to pay college feee 
-# <a href="https://www.paypal.me/PDUSER"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
+## 🙏 Support 
+<h3><a href="https://www.paypal.me/PDUSER"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
