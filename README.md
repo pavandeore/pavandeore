@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📔 Author of [theRegretBook](theregretbook.netlify.app/)
+- 📔 Author of [theRegretBook](https://theregretbook.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://pavandeore.github.io](https://pavandeore.github.io)
 
