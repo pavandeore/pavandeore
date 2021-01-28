@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 📝 Read My articles on [ContentAllOver Blog by Pawan Deore](https://contentallover.blogspot.com)
+
 - 📔 Author of [theRegretBook](https://theregretbook.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://pavandeore.github.io](https://pavandeore.github.io)
