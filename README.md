@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/pawandeore7" target="blank"><img src="https://img.shields.io/twitter/follow/pawandeore7?logo=twitter&style=for-the-badge" alt="pawandeore7" /></a> </p>
 
-- 🔭 I’m currently working on [Devincept Contribution Program](https://github.com/Learn-Write-Repeat/Web-Development)
+- ⚡ I’m currently working as Web Developer at Betel Digitech and Mentor in [Devincept](https://github.com/DevIncept)
+
+- 🔭 Worked on [Devincept Contribution Program](https://github.com/Learn-Write-Repeat/Web-Development)
 
 - 🌱 I’m currently learning **React**
 
