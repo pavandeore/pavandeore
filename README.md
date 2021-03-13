@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pavandeore.github.io](https://pavandeore.github.io)
 
-- 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore)
+- 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) and [SeoStarClub](https://seostarclub.blogspot.com/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap And Javascript**
 
