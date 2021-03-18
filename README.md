@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pawandeore7" target="blank"><img src="https://img.shields.io/twitter/follow/pawandeore7?logo=twitter&style=for-the-badge" alt="pawandeore7" /></a> </p>
 
-<p align="left">![counter](https://[YOUR_ENDPOINT].m.pipedream.net)</p>
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 
 - ⚡ I’m currently working as Web Developer Intern at [Betel Digitech](https://betelitservices.com/) and Mentor at [Devincept](https://github.com/DevIncept)
 
