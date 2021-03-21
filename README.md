@@ -9,8 +9,9 @@
 
 - 🔭 Worked on [Devincept Contribution Program](https://github.com/Learn-Write-Repeat/Web-Development)
 
-- 🌱 I’m currently learning **React**
+- ⚡ Portfolio : [https://pavandeore.github.io](https://pavandeore.github.io)
 
+- 🌱 I’m currently learning **React**
 
 - 📔 Author of [theRegretBook](https://theregretbook.netlify.app/)
 
