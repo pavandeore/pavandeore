@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **pavandeore90@gmail.com**
 
-- 📄 Know about my experiences [https://pavandeore.github.io/Pawan_Resume.pdf](https://pavandeore.github.io/Pawan_Resume.pdf)
+
 
 - ⚡ Fun fact **No matter how SENIOR you are you will visit STACKOVERFLOW**
 
