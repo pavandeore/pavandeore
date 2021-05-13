@@ -26,6 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavandeore&show_icons=true&locale=en" alt="pavandeore" /></p>
 
-## 🙏 Support 
-<a href="https://www.paypal.me/PDUSER"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
