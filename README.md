@@ -7,25 +7,14 @@
 
 - ⚡ I’m currently working as Frontend Engineer at [Project Pro](https://www.dezyre.com/) 
 
-- 🔭 Worked on [Devincept Contribution Program](https://github.com/Learn-Write-Repeat/Web-Development)
-
 - ⚡ Portfolio : [https://pavandeore.github.io](https://pavandeore.github.io)
 
 - 🌱 I’m currently learning **React**
 
-- 📔 Author of [theRegretBook](https://theregretbook.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://pavandeore.github.io](https://pavandeore.github.io)
-
 - 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) and [SeoStarClub](https://seostarclub.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap And Javascript**
+- 💬 Ask me about **HTML, CSS, GIT, React, Bootstrap And JavaScript**
 
-- 📫 How to reach me **pavandeore90@gmail.com**
-
-
-
-- ⚡ Fun fact **No matter how SENIOR you are you will visit STACKOVERFLOW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
