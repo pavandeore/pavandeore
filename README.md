@@ -9,11 +9,11 @@
 
 - ⚡ Portfolio : [https://pavandeore.github.io](https://pavandeore.github.io)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next Js **
 
 - 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) and [SeoStarClub](https://seostarclub.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, GIT, React, Bootstrap And JavaScript**
+- 💬 Ask me about **HTML, CSS, Gulp, SaSS GIT, React, Bootstrap And JavaScript**
 
 
 <h3 align="left">Connect with me:</h3>
