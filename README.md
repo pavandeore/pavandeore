@@ -9,7 +9,7 @@
 
 - ⚡ Portfolio : [https://pavandeore.github.io](https://pavandeore.github.io)
 
-- 🌱 I’m currently learning **Next Js **
+- 🌱 I’m currently learning ** ThreeJS **
 
 - 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) and [SeoStarClub](https://seostarclub.blogspot.com/)
 
