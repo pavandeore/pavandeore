@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** ThreeJS **
 
-- 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) and [SeoStarClub](https://seostarclub.blogspot.com/)
+- 📝 I regulary write articles on [https://dev.to/pawandeore](https://dev.to/pawandeore) 
 
 - 💬 Ask me about **HTML, CSS, Gulp, SaSS GIT, React, Bootstrap And JavaScript**
 
