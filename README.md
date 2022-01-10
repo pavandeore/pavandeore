@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://dev.to/pawandeore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pawandeore" height="30" width="40" /></a>
 <a href="https://twitter.com/pawandeore7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pawandeore7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-deore-0bb60b1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pawan-deore-0bb60b1a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawan-deore-0bb60b1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pawan-deore-0bb60b1a4/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12534871/pawan-deore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12534871/pawan-deore" height="30" width="40" /></a>
 </p>
 
