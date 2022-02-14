@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/pawandeore7" target="blank"><img src="https://img.shields.io/twitter/follow/pawandeore7?logo=twitter&style=for-the-badge" alt="pawandeore7" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=pavandeore)
+
 
 - ⚡ I’m currently working as Frontend Engineer at [Project Pro](https://www.dezyre.com/) 
 
