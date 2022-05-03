@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ThreeJS**
 
-- 👨‍💻 All of my projects are available at [pawan deore portfolio](https://pavandeore.github.io)
+- 👨‍💻 All of my projects are available at [portfolio](https://pavandeore.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/pawandeore/](https://dev.to/pawandeore/)
 
