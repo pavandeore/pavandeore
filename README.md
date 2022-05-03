@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=pavandeore)
 
 
-- ⚡ I’m currently working as Frontend Engineer at [Project Pro](https://www.dezyre.com/) 
+- ⚡ I’m currently working as Frontend Engineer at [Project Pro](https://www.projectpro.io/) 
 
 - ⚡ Portfolio : [https://pavandeore.github.io](https://pavandeore.github.io)
 
