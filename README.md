@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pawandeore7" target="blank"><img src="https://img.shields.io/twitter/follow/pawandeore7?logo=twitter&style=for-the-badge" alt="pawandeore7" /></a> </p>
 
-- 🔭 I’m currently working as Frontend Engineer at **ProjectPro**
+- 🔭 I’m currently working as Senior Frontend Engineer at **ProjectPro**
 
 - 🌱 I’m currently learning **ThreeJS**
-
-- 👨‍💻 All of my projects are available at [portfolio](https://pavandeore.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/pawandeore/](https://dev.to/pawandeore/)
 
