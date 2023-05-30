@@ -29,5 +29,5 @@
 
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavandeore&show_icons=true&theme=transparent)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pawandeore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawandeore" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pawandeore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawandeore" /></a></p><br><br> -->
