@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ThreeJS**
 
-- 📝 I regularly write articles on [Performance Benchmark](https://pavandeore.github.io/performance-benchmark/) & [https://dev.to/pawandeore/](https://dev.to/pawandeore/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/pawan-deore-0bb60b1a4/) & [https://dev.to/pawandeore/](https://dev.to/pawandeore/)
 
 - 💬 Ask me about **JavaScript, React, NextJS, Performance Optimization**
 
