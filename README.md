@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as Senior Frontend Engineer at **ProjectPro**
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **this new AI and things**
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/pawan-deore-0bb60b1a4/) & [https://dev.to/pawandeore/](https://dev.to/pawandeore/)
 
