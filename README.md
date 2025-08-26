@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/pawandeore7" target="blank"><img src="https://img.shields.io/twitter/follow/pawandeore7?logo=twitter&style=for-the-badge" alt="pawandeore7" /></a> </p>
 
-- 😍 Learn about Modern Web Technologies on my - [Youtube Channel](https://youtube.com/@pawandeore8291?si=iI9knpHO2yFMohEH)
 
 - 🔭 I’m currently working as Senior Frontend Engineer at **ProjectPro**
 
